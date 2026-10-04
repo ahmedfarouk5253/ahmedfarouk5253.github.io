@@ -1,0 +1,4 @@
+# Authorized Digital Sellers for apps by Wobbly Studio (developer website:
+# https://ahmedfarouk5253.github.io/WobblyStudio/). Ad crawlers only read this
+# file at the root of the host, which is why it lives in this repo.
+google.com, pub-1834205112481755, DIRECT, f08c47fec0942fa0
